@@ -1,0 +1,61 @@
+date|time|visitor_team|visitor_pts|home_team|home_pts|box|ot|attendance|notes
+Tue, May 1, 2012|7:30p|Boston Celtics|87|Atlanta Hawks|80|Box Score||19,308|
+Tue, May 1, 2012|8:00p|Philadelphia 76ers|109|Chicago Bulls|92|Box Score||22,067|
+Tue, May 1, 2012|10:30p|Denver Nuggets|100|Los Angeles Lakers|104|Box Score||18,997|
+Wed, May 2, 2012|7:00p|Utah Jazz|83|San Antonio Spurs|114|Box Score||18,581|
+Wed, May 2, 2012|7:30p|Indiana Pacers|97|Orlando Magic|74|Box Score||18,846|
+Wed, May 2, 2012|9:30p|Los Angeles Clippers|98|Memphis Grizzlies|105|Box Score||18,119|
+Thu, May 3, 2012|7:00p|Miami Heat|87|New York Knicks|70|Box Score||19,763|
+Thu, May 3, 2012|9:30p|Oklahoma City Thunder|95|Dallas Mavericks|79|Box Score||20,640|
+Fri, May 4, 2012|7:30p|Atlanta Hawks|84|Boston Celtics|90|Box Score|OT|18,624|
+Fri, May 4, 2012|8:00p|Chicago Bulls|74|Philadelphia 76ers|79|Box Score||20,381|
+Fri, May 4, 2012|10:30p|Los Angeles Lakers|84|Denver Nuggets|99|Box Score||19,155|
+Sat, May 5, 2012|2:00p|Indiana Pacers|101|Orlando Magic|99|Box Score|OT|18,846|
+Sat, May 5, 2012|4:30p|Memphis Grizzlies|86|Los Angeles Clippers|87|Box Score||19,060|
+Sat, May 5, 2012|7:30p|Oklahoma City Thunder|103|Dallas Mavericks|97|Box Score||20,533|
+Sat, May 5, 2012|10:00p|San Antonio Spurs|102|Utah Jazz|90|Box Score||19,911|
+Sun, May 6, 2012|1:00p|Chicago Bulls|82|Philadelphia 76ers|89|Box Score||20,412|
+Sun, May 6, 2012|3:30p|Miami Heat|87|New York Knicks|89|Box Score||19,763|
+Sun, May 6, 2012|7:00p|Atlanta Hawks|79|Boston Celtics|101|Box Score||18,624|
+Sun, May 6, 2012|9:30p|Los Angeles Lakers|92|Denver Nuggets|88|Box Score||19,155|
+Mon, May 7, 2012|8:00p|San Antonio Spurs|87|Utah Jazz|81|Box Score||19,911|
+Mon, May 7, 2012|10:30p|Memphis Grizzlies|97|Los Angeles Clippers|101|Box Score|OT|19,167|
+Tue, May 8, 2012|7:00p|Orlando Magic|87|Indiana Pacers|105|Box Score||18,165|
+Tue, May 8, 2012|8:00p|Boston Celtics|86|Atlanta Hawks|87|Box Score||19,319|
+Tue, May 8, 2012|9:30p|Philadelphia 76ers|69|Chicago Bulls|77|Box Score||22,093|
+Tue, May 8, 2012|10:30p|Denver Nuggets|102|Los Angeles Lakers|99|Box Score||18,997|
+Wed, May 9, 2012|7:00p|New York Knicks|94|Miami Heat|106|Box Score||19,754|
+Wed, May 9, 2012|9:30p|Los Angeles Clippers|80|Memphis Grizzlies|92|Box Score||18,119|
+Thu, May 10, 2012|7:00p|Chicago Bulls|78|Philadelphia 76ers|79|Box Score||20,362|
+Thu, May 10, 2012|8:00p|Atlanta Hawks|80|Boston Celtics|83|Box Score||18,624|
+Thu, May 10, 2012|10:30p|Los Angeles Lakers|96|Denver Nuggets|113|Box Score||19,770|
+Fri, May 11, 2012|9:00p|Memphis Grizzlies|90|Los Angeles Clippers|88|Box Score||19,060|
+Sat, May 12, 2012|8:00p|Philadelphia 76ers|91|Boston Celtics|92|Box Score||18,624|
+Sat, May 12, 2012|10:30p|Denver Nuggets|87|Los Angeles Lakers|96|Box Score||18,997|
+Sun, May 13, 2012|1:00p|Los Angeles Clippers|82|Memphis Grizzlies|72|Box Score||18,119|
+Sun, May 13, 2012|3:30p|Indiana Pacers|86|Miami Heat|95|Box Score||19,600|
+Mon, May 14, 2012|7:00p|Philadelphia 76ers|82|Boston Celtics|81|Box Score||18,624|
+Mon, May 14, 2012|9:30p|Los Angeles Lakers|90|Oklahoma City Thunder|119|Box Score||18,203|
+Tue, May 15, 2012|7:00p|Indiana Pacers|78|Miami Heat|75|Box Score||19,828|
+Tue, May 15, 2012|9:30p|Los Angeles Clippers|92|San Antonio Spurs|108|Box Score||18,581|
+Wed, May 16, 2012|7:00p|Boston Celtics|107|Philadelphia 76ers|91|Box Score||20,351|
+Wed, May 16, 2012|9:30p|Los Angeles Lakers|75|Oklahoma City Thunder|77|Box Score||18,203|
+Thu, May 17, 2012|7:00p|Miami Heat|75|Indiana Pacers|94|Box Score||18,165|
+Thu, May 17, 2012|9:30p|Los Angeles Clippers|88|San Antonio Spurs|105|Box Score||18,581|
+Fri, May 18, 2012|8:00p|Boston Celtics|83|Philadelphia 76ers|92|Box Score||20,411|
+Fri, May 18, 2012|10:30p|Oklahoma City Thunder|96|Los Angeles Lakers|99|Box Score||18,997|
+Sat, May 19, 2012|3:30p|San Antonio Spurs|96|Los Angeles Clippers|86|Box Score||19,060|
+Sat, May 19, 2012|10:30p|Oklahoma City Thunder|103|Los Angeles Lakers|100|Box Score||18,997|
+Sun, May 20, 2012|3:30p|Miami Heat|101|Indiana Pacers|93|Box Score||18,165|
+Sun, May 20, 2012|10:30p|San Antonio Spurs|102|Los Angeles Clippers|99|Box Score||19,060|
+Mon, May 21, 2012|7:00p|Philadelphia 76ers|85|Boston Celtics|101|Box Score||18,624|
+Mon, May 21, 2012|9:30p|Los Angeles Lakers|90|Oklahoma City Thunder|106|Box Score||18,203|
+Tue, May 22, 2012|8:00p|Indiana Pacers|83|Miami Heat|115|Box Score||20,097|
+Wed, May 23, 2012|8:00p|Boston Celtics|75|Philadelphia 76ers|82|Box Score||20,403|
+Thu, May 24, 2012|8:00p|Miami Heat|105|Indiana Pacers|93|Box Score||18,165|
+Sat, May 26, 2012|8:00p|Philadelphia 76ers|75|Boston Celtics|85|Box Score||18,624|
+Sun, May 27, 2012|8:30p|Oklahoma City Thunder|98|San Antonio Spurs|101|Box Score||18,581|
+Mon, May 28, 2012|8:30p|Boston Celtics|79|Miami Heat|93|Box Score||19,912|
+Tue, May 29, 2012|9:00p|Oklahoma City Thunder|111|San Antonio Spurs|120|Box Score||18,581|
+Wed, May 30, 2012|8:30p|Boston Celtics|111|Miami Heat|115|Box Score|OT|19,973|
+Thu, May 31, 2012|9:00p|San Antonio Spurs|82|Oklahoma City Thunder|102|Box Score||18,203|

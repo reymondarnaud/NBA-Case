@@ -1,0 +1,237 @@
+date|time|visitor_team|visitor_pts|home_team|home_pts|box|ot|attendance
+Wed, Mar 1, 2006|7:00p|Sacramento Kings|97|Cleveland Cavaliers|90|Box Score|17,363|
+Wed, Mar 1, 2006|7:00p|Atlanta Hawks|113|Toronto Raptors|111|Box Score|OT|15,137
+Wed, Mar 1, 2006|7:00p|Indiana Pacers|99|Washington Wizards|93|Box Score|13,411|
+Wed, Mar 1, 2006|7:30p|Miami Heat|103|Boston Celtics|96|Box Score|18,624|
+Wed, Mar 1, 2006|8:00p|New York Knicks|99|Memphis Grizzlies|101|Box Score|14,678|
+Wed, Mar 1, 2006|8:00p|New Jersey Nets|90|Minnesota Timberwolves|100|Box Score|15,369|
+Wed, Mar 1, 2006|9:00p|Detroit Pistons|87|Denver Nuggets|98|Box Score|19,099|
+Wed, Mar 1, 2006|9:00p|Philadelphia 76ers|106|Houston Rockets|101|Box Score|15,027|
+Wed, Mar 1, 2006|9:00p|Milwaukee Bucks|110|Phoenix Suns|123|Box Score|17,701|
+Wed, Mar 1, 2006|9:00p|Charlotte Bobcats|104|Utah Jazz|89|Box Score|18,177|
+Wed, Mar 1, 2006|10:00p|Los Angeles Lakers|93|Portland Trail Blazers|99|Box Score|19,454|
+Wed, Mar 1, 2006|10:30p|Orlando Magic|94|Golden State Warriors|98|Box Score|17,064|
+Wed, Mar 1, 2006|10:30p|New Orleans/Oklahoma City Hornets|67|Los Angeles Clippers|89|Box Score|16,157|
+Thu, Mar 2, 2006|7:00p|Cleveland Cavaliers|92|Chicago Bulls|91|Box Score|20,726|
+Thu, Mar 2, 2006|9:30p|Dallas Mavericks|89|San Antonio Spurs|98|Box Score|18,797|
+Fri, Mar 3, 2006|7:00p|Sacramento Kings|102|Atlanta Hawks|93|Box Score|15,200|
+Fri, Mar 3, 2006|7:30p|Indiana Pacers|98|Boston Celtics|99|Box Score|18,624|
+Fri, Mar 3, 2006|7:30p|Chicago Bulls|108|New York Knicks|101|Box Score|19,763|
+Fri, Mar 3, 2006|7:30p|Washington Wizards|113|Philadelphia 76ers|119|Box Score|14,832|
+Fri, Mar 3, 2006|8:30p|Charlotte Bobcats|76|Dallas Mavericks|90|Box Score|20,075|
+Fri, Mar 3, 2006|8:30p|Denver Nuggets|78|Houston Rockets|89|Box Score|14,727|
+Fri, Mar 3, 2006|9:00p|Orlando Magic|118|Phoenix Suns|123|Box Score|18,422|
+Fri, Mar 3, 2006|10:00p|Los Angeles Clippers|103|Utah Jazz|105|Box Score|19,911|
+Fri, Mar 3, 2006|10:30p|Los Angeles Lakers|106|Golden State Warriors|94|Box Score|20,375|
+Fri, Mar 3, 2006|10:30p|Detroit Pistons|98|Seattle SuperSonics|96|Box Score|17,072|
+Sat, Mar 4, 2006|1:00p|Toronto Raptors|100|New Jersey Nets|105|Box Score|OT|16,215
+Sat, Mar 4, 2006|7:30p|Atlanta Hawks|93|Miami Heat|95|Box Score|20,023|
+Sat, Mar 4, 2006|8:30p|New York Knicks|103|Milwaukee Bucks|98|Box Score|17,936|
+Sat, Mar 4, 2006|8:30p|Portland Trail Blazers|81|San Antonio Spurs|101|Box Score|18,797|
+Sat, Mar 4, 2006|9:00p|Orlando Magic|94|Denver Nuggets|110|Box Score|19,509|
+Sat, Mar 4, 2006|10:30p|Detroit Pistons|94|Los Angeles Lakers|105|Box Score|18,997|
+Sun, Mar 5, 2006|1:00p|Indiana Pacers|94|Philadelphia 76ers|93|Box Score|20,177|
+Sun, Mar 5, 2006|1:00p|Sacramento Kings|107|Washington Wizards|117|Box Score|19,612|
+Sun, Mar 5, 2006|3:30p|Phoenix Suns|115|Dallas Mavericks|107|Box Score|20,340|
+Sun, Mar 5, 2006|3:30p|Golden State Warriors|90|Minnesota Timberwolves|103|Box Score|15,797|
+Sun, Mar 5, 2006|6:00p|Boston Celtics|105|Toronto Raptors|111|Box Score|16,623|
+Sun, Mar 5, 2006|7:30p|Chicago Bulls|72|Cleveland Cavaliers|91|Box Score|20,562|
+Sun, Mar 5, 2006|8:30p|Portland Trail Blazers|84|Houston Rockets|102|Box Score|14,046|
+Sun, Mar 5, 2006|9:00p|Memphis Grizzlies|102|Los Angeles Clippers|86|Box Score|16,796|
+Sun, Mar 5, 2006|9:00p|Utah Jazz|81|Seattle SuperSonics|113|Box Score|15,493|
+Mon, Mar 6, 2006|7:30p|Miami Heat|106|Charlotte Bobcats|105|Box Score|OT|17,165
+Mon, Mar 6, 2006|7:30p|Sacramento Kings|109|New Jersey Nets|84|Box Score|15,749|
+Mon, Mar 6, 2006|8:00p|Phoenix Suns|101|New Orleans/Oklahoma City Hornets|88|Box Score|19,207|
+Mon, Mar 6, 2006|9:00p|Memphis Grizzlies|101|Denver Nuggets|115|Box Score|15,242|
+Mon, Mar 6, 2006|9:00p|Orlando Magic|85|Utah Jazz|90|Box Score|17,272|
+Mon, Mar 6, 2006|10:30p|San Antonio Spurs|103|Los Angeles Lakers|96|Box Score|18,997|
+Tue, Mar 7, 2006|7:00p|Golden State Warriors|106|Atlanta Hawks|113|Box Score|13,569|
+Tue, Mar 7, 2006|7:00p|Toronto Raptors|99|Cleveland Cavaliers|106|Box Score|18,077|
+Tue, Mar 7, 2006|7:00p|New York Knicks|107|Indiana Pacers|92|Box Score|14,801|
+Tue, Mar 7, 2006|7:00p|Boston Celtics|116|Washington Wizards|115|Box Score|OT|14,250
+Tue, Mar 7, 2006|8:00p|Houston Rockets|93|Minnesota Timberwolves|87|Box Score|16,588|
+Tue, Mar 7, 2006|8:30p|New Jersey Nets|87|Chicago Bulls|95|Box Score|20,837|
+Tue, Mar 7, 2006|8:30p|Portland Trail Blazers|87|Dallas Mavericks|93|Box Score|20,216|
+Tue, Mar 7, 2006|10:30p|San Antonio Spurs|85|Los Angeles Clippers|98|Box Score|18,409|
+Wed, Mar 8, 2006|7:00p|Cleveland Cavaliers|98|Toronto Raptors|97|Box Score|19,800|
+Wed, Mar 8, 2006|7:30p|Philadelphia 76ers|101|Boston Celtics|104|Box Score|18,624|
+Wed, Mar 8, 2006|7:30p|Golden State Warriors|101|Charlotte Bobcats|104|Box Score|14,039|
+Wed, Mar 8, 2006|7:30p|Chicago Bulls|101|Detroit Pistons|106|Box Score|22,076|
+Wed, Mar 8, 2006|7:30p|Washington Wizards|112|Miami Heat|118|Box Score|19,600|
+Wed, Mar 8, 2006|8:00p|Sacramento Kings|123|Milwaukee Bucks|116|Box Score|14,024|
+Wed, Mar 8, 2006|8:00p|Los Angeles Lakers|113|New Orleans/Oklahoma City Hornets|107|Box Score|17,744|at New Orleans, LA
+Wed, Mar 8, 2006|8:30p|Indiana Pacers|99|Houston Rockets|103|Box Score|13,098|
+Wed, Mar 8, 2006|9:00p|Minnesota Timberwolves|93|Utah Jazz|96|Box Score|17,490|
+Wed, Mar 8, 2006|10:00p|Memphis Grizzlies|99|Seattle SuperSonics|74|Box Score|15,521|
+Thu, Mar 9, 2006|8:00p|Denver Nuggets|97|Philadelphia 76ers|93|Box Score|18,194|
+Thu, Mar 9, 2006|10:00p|Dallas Mavericks|109|Portland Trail Blazers|92|Box Score|15,433|
+Thu, Mar 9, 2006|10:30p|San Antonio Spurs|117|Phoenix Suns|93|Box Score|18,422|
+Fri, Mar 10, 2006|7:00p|Cleveland Cavaliers|73|Orlando Magic|102|Box Score|17,283|
+Fri, Mar 10, 2006|7:00p|Denver Nuggets|108|Toronto Raptors|97|Box Score|17,806|
+Fri, Mar 10, 2006|7:30p|Milwaukee Bucks|92|Boston Celtics|86|Box Score|18,624|
+Fri, Mar 10, 2006|7:30p|Golden State Warriors|111|Miami Heat|106|Box Score|19,600|
+Fri, Mar 10, 2006|8:00p|Indiana Pacers|92|New Orleans/Oklahoma City Hornets|90|Box Score|18,506|
+Fri, Mar 10, 2006|8:30p|Los Angeles Clippers|107|Chicago Bulls|96|Box Score|21,975|
+Fri, Mar 10, 2006|8:30p|Los Angeles Lakers|100|San Antonio Spurs|92|Box Score|18,797|
+Fri, Mar 10, 2006|10:00p|Memphis Grizzlies|93|Sacramento Kings|105|Box Score|17,317|
+Fri, Mar 10, 2006|10:30p|Minnesota Timberwolves|96|Seattle SuperSonics|107|Box Score|16,713|
+Sat, Mar 11, 2006|7:00p|Chicago Bulls|95|Atlanta Hawks|90|Box Score|15,301|
+Sat, Mar 11, 2006|7:00p|Golden State Warriors|92|Orlando Magic|103|Box Score|15,102|
+Sat, Mar 11, 2006|7:00p|Detroit Pistons|92|Washington Wizards|110|Box Score|20,173|
+Sat, Mar 11, 2006|7:30p|New York Knicks|109|Charlotte Bobcats|116|Box Score|19,026|
+Sat, Mar 11, 2006|8:30p|Los Angeles Clippers|106|Milwaukee Bucks|98|Box Score|18,482|
+Sat, Mar 11, 2006|9:00p|Minnesota Timberwolves|102|Phoenix Suns|110|Box Score|18,422|
+Sat, Mar 11, 2006|9:00p|Dallas Mavericks|90|Utah Jazz|87|Box Score|19,790|
+Sun, Mar 12, 2006|1:00p|Cleveland Cavaliers|92|Miami Heat|98|Box Score|20,268|
+Sun, Mar 12, 2006|3:30p|Seattle SuperSonics|120|Los Angeles Lakers|113|Box Score|18,997|
+Sun, Mar 12, 2006|3:30p|Houston Rockets|81|San Antonio Spurs|88|Box Score|18,797|
+Sun, Mar 12, 2006|4:00p|Philadelphia 76ers|94|Memphis Grizzlies|91|Box Score|17,776|
+Sun, Mar 12, 2006|6:00p|Denver Nuggets|101|Boston Celtics|106|Box Score|18,624|
+Sun, Mar 12, 2006|6:00p|Charlotte Bobcats|78|Detroit Pistons|94|Box Score|22,076|
+Sun, Mar 12, 2006|6:00p|Indiana Pacers|89|Toronto Raptors|93|Box Score|17,573|
+Sun, Mar 12, 2006|7:00p|New Jersey Nets|95|New Orleans/Oklahoma City Hornets|84|Box Score|19,198|
+Sun, Mar 12, 2006|9:00p|Phoenix Suns|101|Portland Trail Blazers|111|Box Score|18,896|
+Sun, Mar 12, 2006|9:00p|Dallas Mavericks|80|Sacramento Kings|85|Box Score|17,317|
+Mon, Mar 13, 2006|7:00p|Orlando Magic|83|Indiana Pacers|97|Box Score|14,109|
+Mon, Mar 13, 2006|7:30p|Denver Nuggets|108|New York Knicks|96|Box Score|19,763|
+Mon, Mar 13, 2006|8:00p|Atlanta Hawks|87|Milwaukee Bucks|88|Box Score|13,189|
+Mon, Mar 13, 2006|8:30p|New Jersey Nets|90|Houston Rockets|77|Box Score|16,047|
+Mon, Mar 13, 2006|10:30p|Minnesota Timberwolves|87|Los Angeles Clippers|95|Box Score|17,258|
+Tue, Mar 14, 2006|7:00p|Toronto Raptors|111|Philadelphia 76ers|97|Box Score|14,917|
+Tue, Mar 14, 2006|7:30p|Washington Wizards|119|Charlotte Bobcats|114|Box Score|13,721|
+Tue, Mar 14, 2006|7:30p|Utah Jazz|83|Miami Heat|121|Box Score|19,600|
+Tue, Mar 14, 2006|8:00p|Boston Celtics|76|Memphis Grizzlies|93|Box Score|14,271|
+Tue, Mar 14, 2006|8:30p|Portland Trail Blazers|66|Chicago Bulls|95|Box Score|20,604|
+Tue, Mar 14, 2006|8:30p|Cleveland Cavaliers|87|Dallas Mavericks|91|Box Score|20,425|
+Tue, Mar 14, 2006|8:30p|New Orleans/Oklahoma City Hornets|81|San Antonio Spurs|96|Box Score|18,797|
+Tue, Mar 14, 2006|10:00p|Los Angeles Lakers|98|Sacramento Kings|114|Box Score|17,317|
+Tue, Mar 14, 2006|10:00p|Phoenix Suns|129|Seattle SuperSonics|120|Box Score|16,841|
+Wed, Mar 15, 2006|7:00p|Denver Nuggets|101|Indiana Pacers|99|Box Score|14,826|
+Wed, Mar 15, 2006|7:00p|Utah Jazz|108|Orlando Magic|114|Box Score|OT|15,693
+Wed, Mar 15, 2006|7:00p|Detroit Pistons|105|Toronto Raptors|98|Box Score|19,800|
+Wed, Mar 15, 2006|7:00p|Charlotte Bobcats|99|Washington Wizards|107|Box Score|13,841|
+Wed, Mar 15, 2006|7:30p|Portland Trail Blazers|65|New Jersey Nets|78|Box Score|16,115|
+Wed, Mar 15, 2006|7:30p|Atlanta Hawks|117|New York Knicks|121|Box Score|2OT|18,902
+Wed, Mar 15, 2006|8:00p|Chicago Bulls|88|Milwaukee Bucks|104|Box Score|14,879|
+Wed, Mar 15, 2006|9:00p|Dallas Mavericks|95|Houston Rockets|81|Box Score|18,222|
+Wed, Mar 15, 2006|9:00p|Los Angeles Clippers|95|Phoenix Suns|126|Box Score|18,422|
+Wed, Mar 15, 2006|10:30p|Minnesota Timberwolves|89|Los Angeles Lakers|92|Box Score|18,997|
+Thu, Mar 16, 2006|8:00p|Boston Celtics|104|Miami Heat|107|Box Score|20,188|
+Thu, Mar 16, 2006|10:00p|Philadelphia 76ers|98|Seattle SuperSonics|102|Box Score|16,781|
+Thu, Mar 16, 2006|10:30p|Minnesota Timberwolves|97|Golden State Warriors|105|Box Score|17,526|
+Fri, Mar 17, 2006|7:00p|Utah Jazz|111|Atlanta Hawks|101|Box Score|17,442|
+Fri, Mar 17, 2006|7:00p|Sacramento Kings|93|Indiana Pacers|98|Box Score|18,345|
+Fri, Mar 17, 2006|7:00p|Boston Celtics|77|Orlando Magic|84|Box Score|15,702|
+Fri, Mar 17, 2006|7:00p|Milwaukee Bucks|96|Toronto Raptors|97|Box Score|17,273|
+Fri, Mar 17, 2006|7:00p|Dallas Mavericks|104|Washington Wizards|94|Box Score|18,954|
+Fri, Mar 17, 2006|7:30p|Portland Trail Blazers|84|Cleveland Cavaliers|99|Box Score|20,562|
+Fri, Mar 17, 2006|7:30p|Los Angeles Lakers|89|New Jersey Nets|92|Box Score|20,098|
+Fri, Mar 17, 2006|7:30p|Detroit Pistons|103|New York Knicks|105|Box Score|19,763|
+Fri, Mar 17, 2006|8:00p|Denver Nuggets|102|Memphis Grizzlies|116|Box Score|17,222|
+Fri, Mar 17, 2006|8:30p|Phoenix Suns|102|San Antonio Spurs|108|Box Score|18,797|
+Fri, Mar 17, 2006|10:30p|Philadelphia 76ers|89|Los Angeles Clippers|99|Box Score|19,186|
+Sat, Mar 18, 2006|2:00p|Miami Heat|85|Chicago Bulls|84|Box Score|22,439|
+Sat, Mar 18, 2006|7:30p|Detroit Pistons|108|Charlotte Bobcats|103|Box Score|19,026|
+Sat, Mar 18, 2006|8:00p|Denver Nuggets|109|New Orleans/Oklahoma City Hornets|94|Box Score|17,912|at New Orleans, LA
+Sat, Mar 18, 2006|8:30p|San Antonio Spurs|92|Houston Rockets|77|Box Score|18,234|
+Sat, Mar 18, 2006|8:30p|Portland Trail Blazers|93|Milwaukee Bucks|97|Box Score|17,674|
+Sun, Mar 19, 2006|1:00p|Los Angeles Lakers|95|Cleveland Cavaliers|96|Box Score|20,562|
+Sun, Mar 19, 2006|1:00p|Boston Celtics|103|Indiana Pacers|88|Box Score|18,345|
+Sun, Mar 19, 2006|1:00p|Dallas Mavericks|89|New Jersey Nets|100|Box Score|18,883|
+Sun, Mar 19, 2006|2:00p|Orlando Magic|107|Atlanta Hawks|108|Box Score|OT|14,614
+Sun, Mar 19, 2006|3:30p|Sacramento Kings|89|Minnesota Timberwolves|95|Box Score|18,207|
+Sun, Mar 19, 2006|3:30p|Chicago Bulls|104|Washington Wizards|113|Box Score|15,319|
+Sun, Mar 19, 2006|4:00p|Philadelphia 76ers|89|Golden State Warriors|98|Box Score|19,596|
+Sun, Mar 19, 2006|4:00p|Utah Jazz|84|Memphis Grizzlies|90|Box Score|14,116|
+Sun, Mar 19, 2006|7:30p|Miami Heat|111|New York Knicks|100|Box Score|19,763|
+Mon, Mar 20, 2006|7:30p|Los Angeles Lakers|105|Boston Celtics|97|Box Score|18,624|
+Mon, Mar 20, 2006|7:30p|Atlanta Hawks|84|Detroit Pistons|91|Box Score|22,076|
+Mon, Mar 20, 2006|8:30p|Los Angeles Clippers|99|Houston Rockets|91|Box Score|12,395|
+Mon, Mar 20, 2006|10:00p|Milwaukee Bucks|100|Portland Trail Blazers|93|Box Score|12,589|
+Tue, Mar 21, 2006|7:00p|New Jersey Nets|112|Washington Wizards|100|Box Score|14,887|
+Tue, Mar 21, 2006|7:30p|Orlando Magic|102|Charlotte Bobcats|108|Box Score|15,613|
+Tue, Mar 21, 2006|7:30p|Toronto Raptors|114|New York Knicks|109|Box Score|18,131|
+Tue, Mar 21, 2006|8:00p|Houston Rockets|72|Dallas Mavericks|88|Box Score|20,283|
+Tue, Mar 21, 2006|8:00p|Indiana Pacers|75|Memphis Grizzlies|105|Box Score|14,063|
+Tue, Mar 21, 2006|8:00p|Miami Heat|96|Minnesota Timberwolves|100|Box Score|17,927|
+Tue, Mar 21, 2006|8:00p|Los Angeles Clippers|108|New Orleans/Oklahoma City Hornets|120|Box Score|16,799|at New Orleans, LA
+Tue, Mar 21, 2006|8:30p|Golden State Warriors|96|San Antonio Spurs|107|Box Score|18,797|
+Tue, Mar 21, 2006|10:00p|Seattle SuperSonics|96|Sacramento Kings|105|Box Score|17,317|
+Tue, Mar 21, 2006|10:30p|Phoenix Suns|99|Utah Jazz|107|Box Score|18,948|
+Wed, Mar 22, 2006|7:00p|Charlotte Bobcats|118|Cleveland Cavaliers|120|Box Score|OT|18,550
+Wed, Mar 22, 2006|7:00p|Chicago Bulls|85|Indiana Pacers|95|Box Score|14,632|
+Wed, Mar 22, 2006|7:00p|New York Knicks|87|Orlando Magic|111|Box Score|15,819|
+Wed, Mar 22, 2006|7:00p|Atlanta Hawks|106|Philadelphia 76ers|115|Box Score|15,009|
+Wed, Mar 22, 2006|7:30p|Toronto Raptors|96|Boston Celtics|110|Box Score|18,624|
+Wed, Mar 22, 2006|8:00p|Miami Heat|73|Detroit Pistons|82|Box Score|22,076|
+Wed, Mar 22, 2006|10:00p|Milwaukee Bucks|105|Seattle SuperSonics|114|Box Score|15,231|
+Wed, Mar 22, 2006|10:30p|San Antonio Spurs|92|Denver Nuggets|104|Box Score|17,455|
+Wed, Mar 22, 2006|10:30p|Sacramento Kings|80|Los Angeles Lakers|87|Box Score|18,997|
+Thu, Mar 23, 2006|7:30p|Minnesota Timberwolves|82|New Jersey Nets|86|Box Score|15,952|
+Thu, Mar 23, 2006|8:00p|Los Angeles Clippers|85|Memphis Grizzlies|95|Box Score|13,872|
+Thu, Mar 23, 2006|8:00p|Houston Rockets|93|New Orleans/Oklahoma City Hornets|92|Box Score|19,163|
+Thu, Mar 23, 2006|8:30p|Golden State Warriors|122|Dallas Mavericks|121|Box Score|20,165|
+Thu, Mar 23, 2006|9:00p|Portland Trail Blazers|108|Phoenix Suns|125|Box Score|18,422|
+Thu, Mar 23, 2006|9:00p|Washington Wizards|109|Utah Jazz|97|Box Score|19,911|
+Fri, Mar 24, 2006|7:00p|Detroit Pistons|75|Indiana Pacers|72|Box Score|18,345|
+Fri, Mar 24, 2006|7:00p|Orlando Magic|102|Philadelphia 76ers|86|Box Score|20,315|
+Fri, Mar 24, 2006|7:00p|Minnesota Timberwolves|77|Toronto Raptors|97|Box Score|17,493|
+Fri, Mar 24, 2006|7:30p|Boston Celtics|82|Cleveland Cavaliers|94|Box Score|20,562|
+Fri, Mar 24, 2006|7:30p|Charlotte Bobcats|93|Miami Heat|114|Box Score|20,146|
+Fri, Mar 24, 2006|7:30p|Memphis Grizzlies|91|New York Knicks|75|Box Score|19,763|
+Fri, Mar 24, 2006|8:30p|New Orleans/Oklahoma City Hornets|82|Chicago Bulls|96|Box Score|21,793|
+Fri, Mar 24, 2006|9:00p|Seattle SuperSonics|104|Denver Nuggets|117|Box Score|19,099|
+Fri, Mar 24, 2006|10:00p|San Antonio Spurs|98|Portland Trail Blazers|79|Box Score|17,018|
+Fri, Mar 24, 2006|10:30p|Milwaukee Bucks|96|Los Angeles Lakers|101|Box Score|18,745|
+Sat, Mar 25, 2006|3:30p|Washington Wizards|101|Los Angeles Clippers|116|Box Score|17,655|
+Sat, Mar 25, 2006|7:00p|Dallas Mavericks|98|Atlanta Hawks|83|Box Score|18,729|
+Sat, Mar 25, 2006|9:00p|Denver Nuggets|96|Phoenix Suns|107|Box Score|18,422|
+Sat, Mar 25, 2006|9:00p|Sacramento Kings|91|Utah Jazz|89|Box Score|17,867|
+Sun, Mar 26, 2006|1:00p|Philadelphia 76ers|79|Indiana Pacers|92|Box Score|17,513|
+Sun, Mar 26, 2006|3:30p|Toronto Raptors|116|Milwaukee Bucks|125|Box Score|OT|16,317
+Sun, Mar 26, 2006|3:30p|New York Knicks|94|Minnesota Timberwolves|98|Box Score|16,201|
+Sun, Mar 26, 2006|4:00p|Chicago Bulls|101|Boston Celtics|97|Box Score|18,624|
+Sun, Mar 26, 2006|4:00p|Cleveland Cavaliers|104|Houston Rockets|102|Box Score|OT|16,839
+Sun, Mar 26, 2006|4:00p|Charlotte Bobcats|95|Memphis Grizzlies|102|Box Score|17,328|
+Sun, Mar 26, 2006|6:00p|Atlanta Hawks|101|Orlando Magic|108|Box Score|16,191|
+Sun, Mar 26, 2006|7:30p|New Jersey Nets|79|Detroit Pistons|74|Box Score|22,076|
+Sun, Mar 26, 2006|9:00p|Los Angeles Clippers|97|Portland Trail Blazers|83|Box Score|15,345|
+Sun, Mar 26, 2006|9:00p|Golden State Warriors|90|Sacramento Kings|83|Box Score|17,317|
+Sun, Mar 26, 2006|9:00p|San Antonio Spurs|102|Seattle SuperSonics|106|Box Score|16,861|
+Sun, Mar 26, 2006|9:30p|New Orleans/Oklahoma City Hornets|94|Los Angeles Lakers|105|Box Score|18,997|
+Mon, Mar 27, 2006|7:30p|Indiana Pacers|91|Miami Heat|96|Box Score|20,204|
+Mon, Mar 27, 2006|7:30p|Phoenix Suns|72|New Jersey Nets|110|Box Score|18,467|
+Mon, Mar 27, 2006|9:00p|New Orleans/Oklahoma City Hornets|80|Utah Jazz|104|Box Score|17,437|
+Mon, Mar 27, 2006|10:30p|Washington Wizards|116|Golden State Warriors|98|Box Score|17,158|
+Tue, Mar 28, 2006|7:30p|Atlanta Hawks|117|Charlotte Bobcats|125|Box Score|14,762|
+Tue, Mar 28, 2006|7:30p|Dallas Mavericks|90|Detroit Pistons|97|Box Score|22,076|
+Tue, Mar 28, 2006|8:00p|Seattle SuperSonics|98|Memphis Grizzlies|97|Box Score|14,691|
+Tue, Mar 28, 2006|8:00p|Phoenix Suns|110|Milwaukee Bucks|132|Box Score|15,573|
+Tue, Mar 28, 2006|8:30p|Orlando Magic|97|Chicago Bulls|93|Box Score|21,838|
+Tue, Mar 28, 2006|10:00p|Washington Wizards|97|Sacramento Kings|84|Box Score|17,317|
+Tue, Mar 28, 2006|10:30p|San Antonio Spurs|98|Los Angeles Clippers|87|Box Score|17,978|
+Wed, Mar 29, 2006|7:00p|Indiana Pacers|93|Atlanta Hawks|94|Box Score|13,955|
+Wed, Mar 29, 2006|7:00p|Dallas Mavericks|94|Cleveland Cavaliers|107|Box Score|19,401|
+Wed, Mar 29, 2006|7:00p|Miami Heat|98|Toronto Raptors|94|Box Score|19,973|
+Wed, Mar 29, 2006|7:30p|Memphis Grizzlies|74|New Jersey Nets|86|Box Score|16,455|
+Wed, Mar 29, 2006|7:30p|Boston Celtics|123|New York Knicks|98|Box Score|19,763|
+Wed, Mar 29, 2006|7:30p|Detroit Pistons|101|Philadelphia 76ers|91|Box Score|18,022|
+Wed, Mar 29, 2006|8:00p|Orlando Magic|91|Minnesota Timberwolves|103|Box Score|15,142|
+Wed, Mar 29, 2006|8:30p|Seattle SuperSonics|87|Houston Rockets|115|Box Score|13,180|
+Wed, Mar 29, 2006|10:00p|Utah Jazz|115|Denver Nuggets|104|Box Score|16,476|
+Wed, Mar 29, 2006|10:00p|Sacramento Kings|106|Portland Trail Blazers|90|Box Score|15,167|
+Wed, Mar 29, 2006|10:30p|New Orleans/Oklahoma City Hornets|86|Golden State Warriors|85|Box Score|16,885|
+Thu, Mar 30, 2006|8:00p|Phoenix Suns|114|Indiana Pacers|104|Box Score|18,345|
+Thu, Mar 30, 2006|10:30p|San Antonio Spurs|96|Los Angeles Lakers|85|Box Score|18,997|
+Fri, Mar 31, 2006|7:00p|New Jersey Nets|91|Atlanta Hawks|88|Box Score|17,403|
+Fri, Mar 31, 2006|7:00p|Dallas Mavericks|99|Orlando Magic|108|Box Score|17,283|
+Fri, Mar 31, 2006|7:00p|Phoenix Suns|140|Toronto Raptors|126|Box Score|19,800|
+Fri, Mar 31, 2006|7:30p|Chicago Bulls|113|Charlotte Bobcats|107|Box Score|16,607|
+Fri, Mar 31, 2006|7:30p|Philadelphia 76ers|117|New York Knicks|112|Box Score|19,763|
+Fri, Mar 31, 2006|8:00p|Milwaukee Bucks|105|Detroit Pistons|112|Box Score|22,076|
+Fri, Mar 31, 2006|8:00p|Memphis Grizzlies|102|New Orleans/Oklahoma City Hornets|107|Box Score|18,817|
+Fri, Mar 31, 2006|8:30p|Washington Wizards|103|Houston Rockets|105|Box Score|16,993|
+Fri, Mar 31, 2006|9:00p|Minnesota Timberwolves|94|Denver Nuggets|106|Box Score|19,497|
+Fri, Mar 31, 2006|10:30p|Sacramento Kings|96|Golden State Warriors|93|Box Score|20,011|
+Fri, Mar 31, 2006|10:30p|Utah Jazz|91|Los Angeles Clippers|106|Box Score|17,322|
+Fri, Mar 31, 2006|10:30p|Los Angeles Lakers|106|Seattle SuperSonics|93|Box Score|17,072|
